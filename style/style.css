@@ -1,0 +1,47 @@
+body{
+	padding:5px;
+	min-width:400px;
+	min-height:400px; 
+	background-color:#FFFFdd;
+}
+#wrap{
+	
+	margin-right:auto; 
+	margin-left:auto; 
+	width:920px; 
+	background-color:#fef8f7
+}
+#head{
+	width:100%; 
+	height:80px; 
+	clear:both; 
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:center;
+	font-size:28px; 
+	color: #101010; 
+	border-bottom:#bbaa33 solid 1px;
+}
+#body{
+	padding:5%;
+	width:90%;  
+	float:left;
+	height:inherit; 
+	background-color: #efe9f7;
+	margin-bottom:0px;
+}
+#foot{
+	clear:both ; 
+	width:100%; 
+	text-align:center; 
+	color:#fef8f7; 
+	background-color: #4488bb;
+}
+.vals{
+	color:#ba5555;
+	font-weight:bold;
+}
+
+.years{
+	display:none;
+}
